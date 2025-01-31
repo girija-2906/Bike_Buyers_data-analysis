@@ -21,7 +21,7 @@ To analyze the impact og gender, educational status and martial status on bike p
 ## Dashboard
 - <a href = "https://github.com/girija-2906/Bike_Buyers_data-analysis/blob/main/Screenshot.PNG">Dashboard
 ## Project Insight
-- I create pivot tables and charts to visualize the data.
+- I created pivot tables and charts to visualize the data.
 - I was curious to know if commute distance was relevant to whether a bike was purchased.
 - Another point of interest was whether the average income also impacted bike sales.
 - This data was grouped by Gender.
