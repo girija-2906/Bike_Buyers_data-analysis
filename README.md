@@ -17,6 +17,7 @@ and values used.
 Created pivot tables according to the questions asked.
 Merged all pivot tables into one dashboard and apply slicer to make it dynamic.
 ## Dashboard
+- <a href = "https://github.com/girija-2906/Bike_Buyers_data-analysis/blob/main/Screenshot.PNG>/Dashboard
 
 
 
